@@ -1,0 +1,45 @@
+{
+  "token": "mfa.ZdxtSQzSmK7tmU1W465cVr08v6Ar8X-WBxOZuVz2B7IZ8LR7lZuobAcVd25d-gPRj3mgGo4CnL_wh-9tySGK",
+  "token2":"NTE3ODYxNjk1OTg1ODExNDU3.DvLSbg.HFHU5qsVShR6vxva2M1T3MExLbE",
+  "ownerID": "251084318846353410",
+  "ownerID2":"517861695985811457",
+  "prefix": "-",
+  "rotatePlayingGame": true,
+  "rotatePlayingGameTime" : 150000,
+  "rotatePlayingGameInStreamingStatus": true,
+  "rotateAvatarImage": true,
+  "rotateAvatarImageTime" : 600000,
+  "defaultStatus": "dnd",
+  "PSN": {
+    "enabled": false,
+    "email": "m7mdgam3r.ftw@gmail.com",
+    "password": "M7mdAbbas7",
+    "psnID": "M7mdGam3rFTW"
+  },
+  "XBOX": {
+    "enabled": false,
+    "gamertag": "Your XBOX Gamertag",
+    "apikey": "Your xboxapi.com apikey"
+  },
+  "mentionNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": false,
+    "logBlockedUsers": false,
+    "ignoredServers": ["SERVER ID"]
+  },
+  "keywordNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": false,
+    "logBlockedUsers": false,
+    "caseInsensitive": true,
+    "ignoredServers": ["SERVER ID"]
+  },
+  "eventNotificator": {
+    "inConsole": true,
+    "inNotificationChannel": false
+  },
+  "notificationChannelID": "Notification channel ID if you set 'inNotificationChannel' to true at least once",
+  "defaultEmbedColor": "#117ea6",
+  "deleteCommandMessages": true,
+  "deleteCommandMessagesTime": 15000
+}
